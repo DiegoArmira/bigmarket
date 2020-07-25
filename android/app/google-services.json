@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1056265599772",
+    "firebase_url": "https://bigmarket-app.firebaseio.com",
+    "project_id": "bigmarket-app",
+    "storage_bucket": "bigmarket-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056265599772:android:91a74a4e3e6d9d019418d9",
+        "android_client_info": {
+          "package_name": "com.example.bigmarket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1056265599772-r1a9ps7mluu79ucrbaj48ggf91t2tlfb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bigmarket",
+            "certificate_hash": "7886caa06a0ebab46ee45fab87798b97976afda2"
+          }
+        },
+        {
+          "client_id": "1056265599772-jt7mlbmdm9754pisnon6oot37sj52mp6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOWZedQ_GnwQDEepr68Zy99coB-C06G3M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1056265599772-jt7mlbmdm9754pisnon6oot37sj52mp6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
